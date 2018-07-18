@@ -1,3 +1,7 @@
+Version 0.3.3 (2018-07-19)
+==========================
+  - fix charmap by translate from SC to TC
+
 Version 0.3.2 (2016-09-01)
 ==========================
   - fix pip README error

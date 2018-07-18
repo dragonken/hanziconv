@@ -13,11 +13,11 @@ This module supports both Python 2 and 3
    :target: https://travis-ci.org/berniey/hanziconv
    :alt: Build Status
 
-.. image:: https://img.shields.io/badge/version-0.3.2-brightgreen.svg?style=plastic
+.. image:: https://img.shields.io/badge/version-0.3.3-brightgreen.svg?style=plastic
    :target: https://pypi.python.org/pypi/hanziconv/
    :alt: Latest Version
 
-.. image:: https://img.shields.io/badge/doc-0.3.2-brightgreen.svg?style=plastic
+.. image:: https://img.shields.io/badge/doc-0.3.3-brightgreen.svg?style=plastic
    :target: https://pythonhosted.org/hanziconv/
    :alt: Documentation
 
@@ -58,7 +58,7 @@ Synopsis
     usage: hanzi-convert [-h] [-o OUTFILE] [-s] [-v] infile
 
     Simplified and Traditional Chinese Character Conversion
-    Version 0.3.2 (By Bernard Yue)
+    Version 0.3.3 (By Bernard Yue)
 
     Converting to Traditional Hanzi by default with no -s flag
 
